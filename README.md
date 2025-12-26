@@ -110,8 +110,14 @@ python main.py
 
 **Agentic LLMs are used instead of traditional topic models** because they can reason over context, dynamically create and merge topics, and maintain a consistent evolving taxonomy—resulting in more accurate and actionable trend analysis.
 
+##Output
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/696d8a03-4f46-4d2a-810e-10de3df2b0eb" />
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/a1625547-9f15-4ff4-9a67-2bba7ec34ae0" />
+
+
 ---
 
 ## Author
 
 Tiya Tyagi
+
